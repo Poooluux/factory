@@ -1,3 +1,11 @@
 .link{
     text-decoration: none;
 }
+
+.message {
+    color: blue;
+}
+
+.prix{
+    width: 650px;
+}
