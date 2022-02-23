@@ -9,3 +9,10 @@
 .prix{
     width: 650px;
 }
+
+.body2{
+    background-image: url(./img/SAINTJ.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
